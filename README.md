@@ -19,15 +19,20 @@ I started by learning software development the traditional way through JavaScrip
 
 A family-run ecommerce storefront being prepared for production launch at [nepali-threads.com](https://nepali-threads.com). Includes product and variant management, customer accounts, Stripe checkout and webhooks, order persistence, inventory handling, transactional email, testing, and deployment workflows.
 
-### [GainLog](https://github.com/KumarG23/GainLog)
-**React Native · Expo · TypeScript · Health Connect · Data Visualization**
+### [Delphi](https://github.com/KumarG23/delphi)
+**React Native · Expo · TypeScript · Supabase · PostgreSQL · Personal Finance**
 
-A mobile fitness and nutrition application focused on workout history, trends, goals, recovery, nutrition tracking, notifications, and health-data synchronization.
+An early-stage personal finance app for tracking cash, debt, investments, spending, and progress over time. Designed around historical balance snapshots, transaction analysis, database-level user isolation, financial visualizations, reminders, and future financial-data integrations. Named after my cat, Delphi.
 
 ### [Trading Lab](https://github.com/KumarG23/trading-lab)
 **Python · SQLite · Backtesting · Market Analysis · AI-Assisted Research**
 
 A research environment for testing short-term trading ideas with deterministic metrics, historical evaluation, journaling, paper-trading workflows, and explicit human approval gates.
+
+### [GainLog](https://github.com/KumarG23/GainLog)
+**React Native · Expo · TypeScript · Health Connect · Data Visualization**
+
+A mobile fitness and nutrition application focused on workout history, trends, goals, recovery, nutrition tracking, notifications, and health-data synchronization.
 
 ### [Nepali Threads — Original Capstone](https://github.com/KumarG23/nep-front)
 **React · JavaScript · Python · Django · REST APIs · Stripe**
